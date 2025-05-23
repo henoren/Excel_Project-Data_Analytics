@@ -59,14 +59,7 @@ These projects were built to:
 - Demonstrate advanced Excel analytics in a professional portfolio
 - Showcase the ability to extract insights, clean data, and present findings clearly
 
----
 
-## 📂 Files
-
-- `1_Salary_Dashboard.xlsx` – Interactive salary dashboard (Project 1)
-- `2_Project_Analysis.xlsx` – Skill/pay analysis workbook (Project 2)
-
----
 
 ## ✅ Built With
 
