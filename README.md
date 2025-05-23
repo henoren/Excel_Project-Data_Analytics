@@ -1,4 +1,4 @@
-# 📁 Excel Data Career Projects – Portfolio Summary
+# 📁 Excel Data  Projects –  Summary
 
 This repository showcases two Excel-based data analysis projects focused on the data science job market. Both projects use real-world data from 2023 and are designed to help job seekers explore salary trends and in-demand skills using Excel’s most powerful features.
 
